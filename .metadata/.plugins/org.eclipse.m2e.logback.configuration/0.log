@@ -1,0 +1,23 @@
+2017-12-13 02:26:08,284 [Worker-22] WARN  org.eclipse.jgit.util.FS - Exception caught during execution of command '[git, --version]' in '/usr/bin', return code '1', error message 'xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+'
+2017-12-13 02:31:36,228 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/horikenshuu/Documents/GitHub/GoToTo/GO_TOTO_app/pom.xml
+2017-12-13 02:31:37,770 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tokyo.kenshuhori-in:GO_TOTO_app:0.0.1-SNAPSHOT @ /Users/horikenshuu/Documents/GitHub/GoToTo/GO_TOTO_app/pom.xml.
+2017-12-13 02:31:38,831 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GO_TOTO_app/src/main/java
+2017-12-13 02:31:38,837 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GO_TOTO_app/src/test/java
+2017-12-13 02:31:39,845 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2017-12-13 02:31:40,708 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-13 02:31:40,708 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/horikenshuu/Documents/GitHub/GoToTo/GO_TOTO_app/src/main/resources
+2017-12-13 02:31:40,711 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-13 02:31:40,711 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/horikenshuu/Documents/GitHub/GoToTo/GO_TOTO_app/src/test/resources
+2017-12-13 02:35:28,919 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-13 02:35:28,919 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/horikenshuu/Documents/GitHub/GoToTo/GO_TOTO_app/src/main/resources
+2017-12-13 02:35:28,922 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-13 02:35:28,922 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/horikenshuu/Documents/GitHub/GoToTo/GO_TOTO_app/src/test/resources
+2017-12-13 02:35:41,363 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-13 02:35:41,363 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/horikenshuu/Documents/GitHub/GoToTo/GO_TOTO_app/src/main/resources
+2017-12-13 02:35:41,367 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-13 02:35:41,367 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/horikenshuu/Documents/GitHub/GoToTo/GO_TOTO_app/src/test/resources
+2017-12-13 02:35:48,682 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-13 02:35:48,682 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/horikenshuu/Documents/GitHub/GoToTo/GO_TOTO_app/src/main/resources
+2017-12-13 02:35:48,684 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-13 02:35:48,684 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/horikenshuu/Documents/GitHub/GoToTo/GO_TOTO_app/src/test/resources
