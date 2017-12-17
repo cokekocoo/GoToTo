@@ -1,0 +1,12 @@
+package tokyo.kenshuhori_in.GoToTo_app;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@RestController
+public class AppController {
+	
+	@RequestMapping("/")
+	private String hello() {
+		return "Hello KenshuHori!";
+	}
+}

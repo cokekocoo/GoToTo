@@ -1,0 +1,9 @@
+package tokyo.kenshuhori_in.GoToTo_app;
+
+public class AppController {
+	
+	@RequestMapping("/")
+	private String hello() {
+		return "Hello KenshuHori!";
+	}
+}
